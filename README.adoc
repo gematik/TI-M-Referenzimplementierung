@@ -1,0 +1,32 @@
+:imagesdir: ./doc/images
+:toc-title: Inhaltsverzeichnis
+:toc:
+
+= TI-Messenger Referenzimplementierung
+
+image::gematikLogoRight.png[float="right"]
+
+== Inhalt dieses Repos
+
+Dieses Repo dient als generelle Übersicht zu allen Themen rund um den TI-Messenger.
+Hier sind alle nötigen Links gesammelt.
+
+== Benutzerhandbuch
+
+Das Benutzerhandbuch für Anwender (= Anwenderdokumentation) beinhaltet die Beschreibung der bedienungsrelevanten Funktionen der Referenzimplementierung und dokumentiert die Bedienung jeder dieser Funktionen und möglicher Fehlermeldungen.
+Es enthält die Beschreibung für die Voraussetzungen, die Benutzung und Einrichtung der bereitgestellten Referenzimplementierung mit seinen Komponenten (Fachdienst inklusive Registrierungsdienst und Clients inklusive Org-Admin) aus Benutzersicht anhand von Erläuterungen und Screenshots.
+
+link:doc/Anwenderdokumentation.pdf[Hier gehts zur Anwenderdokumentation]
+
+== Links zu den Referenzimplementierungen
+
+link:https://comingsoon[TI-M Ref Messenger Client (comming soon)] +
+link:https://comingsoon[TI-M Ref Service (comming soon)] +
+link:https://comingsoon[TI-M Ref Registrierungsdienst (comming soon)] +
+
+== Weiterführende Seiten
+
+link:https://gematikde.sharepoint.com/:w:/s/PTNeo/EczX7AFGfBdNrCYghzGsHz4BbSoYhV63QMmDCdz7x9zLpg?e=7wG3c[Welcome Package &#91;DE&#93;] +
+link:https://gematikde.sharepoint.com/:w:/s/PTNeo/ETwc10F5Ha1KmlM8NEsetl8BtEumSDgu56AK-PNiZ0-e1Q?e=ySZROI[Welcome Package &#91;EN&#93;] +
+link:https://github.com/gematik/api-ti-messenger[TI-Messenger-Api-Dokumentation] +
+link:https://github.com/gematik/TI-Messenger-Testsuite[TI-Messenger-Testsuite] +

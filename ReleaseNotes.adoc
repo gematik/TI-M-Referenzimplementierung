@@ -1,0 +1,6 @@
+:toc:
+:toc-title: Übersicht
+= Releasenotes
+
+== Version 0.0.1
+ - Initiale Veröffentlichung mit link:doc/Anwenderdokumentation.pdf[Anwenderdokumentation]
