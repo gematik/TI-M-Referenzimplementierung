@@ -13,16 +13,21 @@ Hier sind alle nötigen Links gesammelt.
 
 == Ziel und Zweck
 
-Die gematik stellt eine TI-Messenger-Dienst Referenzimplementierung als Open-Source und Test-Instanzen zur Verfügung. Zur Sicherstellung der Interoperabilität zwischen verschiedenen TI-Messenger-Fachdiensten innerhalb des TI-Messenger-Dienstes muss der TI-Messenger-Dienst (TI-Messenger-Client und TI-Messenger-Fachdienst) eines TI-Messenger-Herstellers gegen die Referenzimplementierung (TI-Messenger-Client und TI-Messenger-Fachdienst) innerhalb des Zulassungsverfahrens getestet werden. Die Test-Instanzen können im TI-ITSM bestellt werden. Die Open-Source Komponenten der Referenzimplementierung  sind hier im GitHub verfügbar (Links zu den Referenzimplementierungen).
+Die gematik stellt eine TI-Messenger-Dienst Referenzimplementierung als Open-Source und Test-Instanzen zur Verfügung.
+Zur Sicherstellung der Interoperabilität zwischen verschiedenen TI-Messenger-Fachdiensten innerhalb des TI-Messenger-Dienstes muss der TI-Messenger-Dienst (TI-Messenger-Client und TI-Messenger-Fachdienst) eines TI-Messenger-Herstellers gegen die Referenzimplementierung (TI-Messenger-Client und TI-Messenger-Fachdienst) innerhalb des Zulassungsverfahrens getestet werden.
+Die Test-Instanzen können im TI-ITSM bestellt werden.
+Die Open-Source Komponenten der Referenzimplementierung sind hier im GitHub verfügbar (Links zu den Referenzimplementierungen).
 
 Durch diese Bereitstellungen soll folgendes bezweckt werden: +
 - Die Befähigung von Herstellern zur schnellen Umsetzung von TI-Messenger-Lösungen und die damit einhergehende Marktdurchdringung +
 - Die Steigerung der Qualität entsprechender Umsetzungen von TI-Messenger-Lösungen von Herstellern +
-- Die Prüfung der Schnittstellen und Interoperabilitäts-Funktion (Verbesserung bzw. Plausibilisieren der Architektur) im Laufe des Entwicklungsprozesses +
+- Die Prüfung der Schnittstellen und Interoperabilitäts-Funktion (Verbesserung bzw.
+Plausibilisieren der Architektur) im Laufe des Entwicklungsprozesses +
 - Die Möglichkeit zur Durchführung eigenverantwortlicher Tests von TI-Messenger-Lösungen durch die Hersteller im Rahmen der Zulassung +
 - Interoperabilitätstests von verschiedenen TI-Messenger-Lösungen vor und nach der Zulassung durch die gematik +
 
-Abgrenzend dazu wird die Referenzimplementierung nicht im produktiven Betrieb der Telematikinfrastruktur betrieben werden. Somit wird im Kontext der Referenzimplementierung kein Public Key Infrastructure (PKI)-Material aus der produktiven PKI z. B. für Komponenten, Leistungserbringer (LEI), Versicherte etc. genutzt werden.
+Abgrenzend dazu wird die Referenzimplementierung nicht im produktiven Betrieb der Telematikinfrastruktur betrieben werden.
+Somit wird im Kontext der Referenzimplementierung kein Public Key Infrastructure (PKI)-Material aus der produktiven PKI z. B. für Komponenten, Leistungserbringer (LEI), Versicherte etc. genutzt werden.
 
 == Benutzerhandbuch
 
@@ -33,16 +38,16 @@ link:doc/Anwenderdokumentation.pdf[Hier gehts zur Anwenderdokumentation]
 
 == Links zu den Referenzimplementierungen
 
-link:https://github.com/gematik/TI-M-Ref-Messenger-Client[TI-M Ref Messenger Client (comming soon)] +
-link:https://github.com/gematik/TI-M-Ref-Messenger-Service[TI-M Ref Service (comming soon)] +
-link:https://github.com/gematik/TI-M-Ref-Registrierungsdienst[TI-M Ref Registrierungsdienst (comming soon)] +
-link:https://github.com/gematik/TI-M-Ref-Push-Gateway[TI-M Ref Push Gateway (comming soon)] +
-link:https://github.com/gematik/TI-M-Ref-Synapse-Admin[TI-M Ref Synapse Admin (comming soon)] +
-link:https://github.com/gematik/TI-M-Ref-Rawdata-Master[TI-M Ref Rawdata Master (comming soon)] +
+link:https://github.com/gematik/TI-M-Ref-Messenger-Client[TI-M Ref Messenger Client (coming soon)] +
+link:https://github.com/gematik/TI-M-Ref-Messenger-Service[TI-M Ref Service (coming soon)] +
+link:https://github.com/gematik/TI-M-Ref-Registrierungsdienst[TI-M Ref Registrierungsdienst (coming soon)] +
+link:https://github.com/gematik/TI-M-Ref-Push-Gateway[TI-M Ref Push Gateway (coming soon)] +
+link:https://github.com/gematik/TI-M-Ref-Synapse-Admin[TI-M Ref Synapse Admin (coming soon)] +
+link:https://github.com/gematik/TI-M-Ref-Rawdata-Master[TI-M Ref Rawdata Master (coming soon)] +
 
 == Weiterführende Seiten
 
-link:https://gematikde.sharepoint.com/:w:/s/PTNeo/EczX7AFGfBdNrCYghzGsHz4BbSoYhV63QMmDCdz7x9zLpg?e=7wG3c[Welcome Package &#91;DE&#93;] +
-link:https://gematikde.sharepoint.com/:w:/s/PTNeo/ETwc10F5Ha1KmlM8NEsetl8BtEumSDgu56AK-PNiZ0-e1Q?e=ySZROI[Welcome Package &#91;EN&#93;] +
+link:https://fachportal.gematik.de/fileadmin/Fachportal/Anwendungen/TI-Messenger/Welcome_Package_TI-Messenger_V1.1.0.pdf[Welcome Package &#91;DE&#93;] +
+link:https://fachportal.gematik.de/fileadmin/Fachportal/Anwendungen/TI-Messenger/Welcome_Package_TI-Messenger_V1.1.0_EN.pdf[Welcome Package &#91;EN&#93;] +
 link:https://github.com/gematik/api-ti-messenger[TI-Messenger-Api-Dokumentation] +
 link:https://github.com/gematik/TI-Messenger-Testsuite[TI-Messenger-Testsuite] +
