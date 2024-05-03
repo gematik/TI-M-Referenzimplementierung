@@ -2,6 +2,10 @@
 :toc-title: Übersicht
 = Release notes
 
+== Version 1.1.1
+
+- Update der Links zu den Welcome Packages
+
 == Version 1.1.0
 
 - Update der link:doc/Anwenderdokumentation.pdf[Anwenderdokumentation]
