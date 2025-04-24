@@ -38,16 +38,21 @@ link:doc/Anwenderdokumentation.pdf[Hier gehts zur Anwenderdokumentation]
 
 == Links zu den Referenzimplementierungen
 
-link:https://github.com/gematik/TI-M-Ref-Messenger-Client[TI-M Ref Messenger Client (coming soon)] +
-link:https://github.com/gematik/TI-M-Ref-Messenger-Service[TI-M Ref Service (coming soon)] +
-link:https://github.com/gematik/TI-M-Ref-Registrierungsdienst[TI-M Ref Registrierungsdienst (coming soon)] +
-link:https://github.com/gematik/TI-M-Ref-Push-Gateway[TI-M Ref Push Gateway (coming soon)] +
-link:https://github.com/gematik/TI-M-Ref-Synapse-Admin[TI-M Ref Synapse Admin (coming soon)] +
-link:https://github.com/gematik/TI-M-Ref-Rawdata-Master[TI-M Ref Rawdata Master (coming soon)] +
+Die Repositories der Referenzimplementierung werden durch Akquinet auf Github veröffentlicht (tim-ref repositories).
+
+link:https://github.com/tim-ref/messenger-release-notes/blob/main/release-notes.md[Release-Notes der Referenzimplementierungsrepositories]
+
+Eine Dopplung auf gematik-eigene Repositories wird langfristig angestrebt. Die folgenden Repositories sind dafür angedacht, jedoch ist der genaue Ablauf der Veröffentlichung noch in Klärung.
+
+link:https://github.com/gematik/TI-M-Ref-Messenger-Client[TI-M Ref Messenger Client (coming soon &trade;)] +
+link:https://github.com/gematik/TI-M-Ref-Messenger-Service[TI-M Ref Service (coming soon &trade;)] +
+link:https://github.com/gematik/TI-M-Ref-Registrierungsdienst[TI-M Ref Registrierungsdienst (coming soon &trade;)] +
+link:https://github.com/gematik/TI-M-Ref-Push-Gateway[TI-M Ref Push Gateway (coming soon &trade;)] +
+link:https://github.com/gematik/TI-M-Ref-Synapse-Admin[TI-M Ref Synapse Admin (coming soon &trade;)] +
+link:https://github.com/gematik/TI-M-Ref-Rawdata-Master[TI-M Ref Rawdata Master (coming soon &trade;)] +
 
 == Weiterführende Seiten
 
-link:https://fachportal.gematik.de/fileadmin/Fachportal/Anwendungen/TI-Messenger/Welcome_Package_TI-Messenger_V1.1.0.pdf[Welcome Package &#91;DE&#93;] +
-link:https://fachportal.gematik.de/fileadmin/Fachportal/Anwendungen/TI-Messenger/Welcome_Package_TI-Messenger_V1.1.0_EN.pdf[Welcome Package &#91;EN&#93;] +
+link:https://fachportal.gematik.de/anwendungen/ti-messenger#c4542[Welcome Packages, available in German and English] +
 link:https://github.com/gematik/api-ti-messenger[TI-Messenger-Api-Dokumentation] +
 link:https://github.com/gematik/TI-Messenger-Testsuite[TI-Messenger-Testsuite] +
