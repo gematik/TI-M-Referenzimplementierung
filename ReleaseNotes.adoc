@@ -2,6 +2,15 @@
 :toc-title: Übersicht
 = Release notes
 
+== Version 1.6.0
+
+- Update der Links zu den Welcome Packages
+- Explains links to empty reference implementation repositories
+
+== Version 1.5.0
+
+- Update der link:doc/Anwenderdokumentation.pdf[Anwenderdokumentation]
+
 == Version 1.4.0
 
 - Update der link:doc/Anwenderdokumentation.pdf[Anwenderdokumentation]
