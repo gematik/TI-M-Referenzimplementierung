@@ -1,4 +1,5 @@
 .idea
+*.iml
 lib
 jenkins
 addOrRemoveCopyrightHeader.sh
