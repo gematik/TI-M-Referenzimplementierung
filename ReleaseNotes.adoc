@@ -2,6 +2,10 @@
 :toc-title: Übersicht
 = Release notes
 
+== Version 1.7.1
+
+- Updates the link to the external ReleaseNotes.
+
 == Version 1.7.0
 
 - Update der link:doc/Anwenderdokumentation.pdf[Anwenderdokumentation]

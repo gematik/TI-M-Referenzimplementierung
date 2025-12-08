@@ -40,7 +40,7 @@ link:doc/Anwenderdokumentation.pdf[Hier gehts zur Anwenderdokumentation]
 
 Die Repositories der Referenzimplementierung werden durch Akquinet auf Github veröffentlicht (tim-ref repositories).
 
-link:https://github.com/tim-ref/messenger-release-notes/blob/main/release-notes.md[Release-Notes der Referenzimplementierungsrepositories]
+link:https://github.com/tim-ref/messenger-release-notes[Release-Notes der Referenzimplementierungsrepositories]
 
 Eine Dopplung auf gematik-eigene Repositories wird langfristig angestrebt. Die folgenden Repositories sind dafür angedacht, jedoch ist der genaue Ablauf der Veröffentlichung noch in Klärung.
 
